@@ -1,0 +1,12 @@
+D:\dev-playground\LearnComMicroservices\src\Services.Shared\bin\Debug\net8.0\Services.Shared.deps.json
+D:\dev-playground\LearnComMicroservices\src\Services.Shared\bin\Debug\net8.0\Services.Shared.dll
+D:\dev-playground\LearnComMicroservices\src\Services.Shared\bin\Debug\net8.0\Services.Shared.pdb
+D:\dev-playground\LearnComMicroservices\src\Services.Shared\obj\Debug\net8.0\Services.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev-playground\LearnComMicroservices\src\Services.Shared\obj\Debug\net8.0\Services.Shared.AssemblyInfoInputs.cache
+D:\dev-playground\LearnComMicroservices\src\Services.Shared\obj\Debug\net8.0\Services.Shared.AssemblyInfo.cs
+D:\dev-playground\LearnComMicroservices\src\Services.Shared\obj\Debug\net8.0\Services.Shared.csproj.CoreCompileInputs.cache
+D:\dev-playground\LearnComMicroservices\src\Services.Shared\obj\Debug\net8.0\Services.Shared.sourcelink.json
+D:\dev-playground\LearnComMicroservices\src\Services.Shared\obj\Debug\net8.0\Services.Shared.dll
+D:\dev-playground\LearnComMicroservices\src\Services.Shared\obj\Debug\net8.0\refint\Services.Shared.dll
+D:\dev-playground\LearnComMicroservices\src\Services.Shared\obj\Debug\net8.0\Services.Shared.pdb
+D:\dev-playground\LearnComMicroservices\src\Services.Shared\obj\Debug\net8.0\ref\Services.Shared.dll
